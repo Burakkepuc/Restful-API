@@ -15,6 +15,6 @@ I learned Postman, Mongodb,Mongoose. I feel more comfortable with nodejs,express
 ```
 app.route().get().post().put().delete().  
 ```
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Burakkepuc/Restful-API/blob/master/MongoDB_Studio3T.png)
+![alt text](https://github.com/Burakkepuc/Restful-API/blob/master/postMan.png)
 
